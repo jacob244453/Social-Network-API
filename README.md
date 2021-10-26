@@ -9,6 +9,7 @@
   An API designed for a social network web application where the user can share their thoughts, as well as react to their friends thoughts.
   ## Table of Contents
   * [Installation](#Installation)
+  * [Example](#Example)
   * [Contribute](#Contribute)
   * [Questions](#Questions)
 
@@ -19,8 +20,11 @@
   4. ```$ mongod``` 
   5. ```$ mongo``` 
   6. Open Insomnia Core or your choice of API route testing software and query the database.
-  
 
+  ## Example
+  
+  https://user-images.githubusercontent.com/85600569/138801548-68b05dc0-de50-48bd-a07b-e21f37dfbc3a.mp4
+  
   ## Contribute
 
   If anyone would like to contribute any changes, please submit a pull request laying out the changes for review, Thanks!
@@ -31,3 +35,10 @@
  
   * GitHub: (https://github.com/jacob244453)
   
+
+
+
+
+
+
+
